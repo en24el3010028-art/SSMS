@@ -3,6 +3,7 @@
 ## Deployment configuration
 
 ### Render backend
+GITHUB REPO: https://github.com/en24el3010028-art/SSMS
 - Branch: `main`
 - Root Directory: `server`
 - Build Command: `npm install`
