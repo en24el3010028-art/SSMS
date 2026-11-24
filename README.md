@@ -3,7 +3,6 @@
 ## Deployment configuration
 
 ### Render backend
-- Repository: `Ishaan086/SSMS`
 - Branch: `main`
 - Root Directory: `server`
 - Build Command: `npm install`
